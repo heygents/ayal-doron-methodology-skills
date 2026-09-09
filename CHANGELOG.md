@@ -4,6 +4,12 @@ All notable changes to this plugin are documented here. Format follows [Keep a C
 
 ## Unreleased
 
+## 1.0.1 — 2026-09-09
+
+### Added
+- **`docs/EXAMPLES.md`** — worked usage examples: the full chain on a business challenge, each skill on its own, a team case, a personal case, a workshop/offsite format, output locations, tips and anti-patterns.
+- Credits section for Dr. Ayal Doron with a link to https://www.eyaldoron.co.il/ in the README, the examples doc and the reference file.
+
 ## 1.0.0 — 2026-09-09
 
 First release.

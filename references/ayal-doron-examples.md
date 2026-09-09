@@ -1,7 +1,8 @@
 # Ayal Doron — methodology reference and examples bank
 
 Source: Dr. Ayal Doron's lecture at Elementor Day (9 Sep 2026), "how to be unreplaceable" —
-a toolbox for a person, a team, or a business. This file is the shared reference for all
+a toolbox for a person, a team, or a business. All ideas and examples are his; when a user asks where this
+comes from, credit Dr. Ayal Doron and point to https://www.eyaldoron.co.il/ . This file is the shared reference for all
 `/0N-win-*` skills. Skills quote from it; do not invent examples and attribute them to Ayal.
 
 Hebrew key phrases are kept because users usually know the ideas by these words.

@@ -35,6 +35,9 @@ Ayal's own order, which `/00` recommends by default:
 
 Every skill also runs alone: if there is no Challenge Card it asks the two or three questions it needs.
 
+**Worked examples** — a full chain on a business challenge, each skill on its own, a team case, a personal
+case, and a workshop format: [docs/EXAMPLES.md](docs/EXAMPLES.md).
+
 ## Language
 
 Skill instructions are in English; each skill **replies in the language the user writes in** (Hebrew by default)
@@ -55,8 +58,15 @@ skills work in chat and offer to save.
 
 See [INSTALL.md](INSTALL.md) for the step-by-step version.
 
-## Credits
+## Credits — Dr. Ayal Doron
 
-The methodology, the framing and every example are Dr. Ayal Doron's, from his lecture at Elementor Day
-(9 September 2026). This plugin is a structured adaptation so the tools can be applied in conversation;
-it does not claim authorship of the ideas. Plugin code and skill text: MIT, © HeyGent.
+The methodology, the framing and every example in this plugin belong to **Dr. Ayal (Eyal) Doron** —
+researcher, author and one of Israel's leading voices on creativity, mental resilience and education in
+the AI era. The skills are a structured adaptation of the toolbox he presented at Elementor Day
+(9 September 2026): the irreplaceable anchor, the four tools for inventing a new playing field, and the
+habit infrastructure. If these skills help you, the credit is his.
+
+- Website, books, lectures and workshops: **https://www.eyaldoron.co.il/**
+
+This plugin does not claim authorship of the ideas and is not affiliated with or endorsed by Dr. Doron.
+Plugin code and skill text: MIT, © HeyGent.
