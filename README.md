@@ -48,7 +48,7 @@ and keeps Ayal's Hebrew key terms (מגרש חדש, מטרה כמעט מופרכ
 Open a terminal (not a Claude chat) and run:
 
 ```bash
-claude plugin marketplace add heygents/heygent-pm-skills
+claude plugin marketplace add heygents/heygent-skills
 claude plugin install ayal-doron-methodology-skills@heygent
 ```
 
@@ -56,6 +56,7 @@ Then in Claude Code, in any workspace, run `/00-win-challenge-intake` and descri
 Outputs are saved under `Outputs/Win/<challenge-slug>/` when an `Outputs/` folder exists; otherwise the
 skills work in chat and offer to save.
 
+The `heygent` marketplace manifest lives in [heygents/heygent-skills](https://github.com/heygents/heygent-skills).
 See [INSTALL.md](INSTALL.md) for the step-by-step version.
 
 ## Credits — Dr. Ayal Doron
