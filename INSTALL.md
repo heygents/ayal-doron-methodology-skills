@@ -20,7 +20,7 @@ Already inside Claude Code CLI or the IDE extension? You can use `/plugin market
 ## Step 2 — Add the marketplace and install
 
 ```bash
-claude plugin marketplace add heygents/heygent-pm-skills
+claude plugin marketplace add heygents/heygent-skills
 ```
 
 ```bash

@@ -4,6 +4,11 @@ All notable changes to this plugin are documented here. Format follows [Keep a C
 
 ## Unreleased
 
+## 1.0.2 — 2026-09-09
+
+### Changed
+- Install docs point at the dedicated marketplace repo [heygents/heygent-skills](https://github.com/heygents/heygent-skills) (`claude plugin marketplace add heygents/heygent-skills`). Removed the now-unneeded `.claude-plugin/marketplace-entry.json`.
+
 ## 1.0.1 — 2026-09-09
 
 ### Added
